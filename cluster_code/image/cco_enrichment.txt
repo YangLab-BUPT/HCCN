@@ -1,0 +1,95 @@
+Cluster 0:
+  GO:0032991 (protein-containing complex): p=6.11e-147, padj=1.14e-144, 563/1741
+  GO:0005575 (cellular_component): p=8.32e-44, padj=7.78e-42, 420/1650
+  GO:0098796 (membrane protein complex): p=1.17e-15, padj=7.27e-14, 146/508
+  GO:0031201 (SNARE complex): p=3.02e-15, padj=1.41e-13, 18/18
+  GO:0140535 (intracellular protein-containing complex): p=1.87e-08, padj=7.01e-07, 68/226
+  GO:0000109 (nucleotide-excision repair complex): p=5.80e-08, padj=1.81e-06, 9/9
+  GO:0071183 (protocadherin-alpha-protocadherin-gamma complex): p=3.71e-07, padj=9.92e-06, 8/8
+  GO:0032993 (protein-DNA complex): p=7.58e-06, padj=1.77e-04, 21/50
+  GO:0030119 (AP-type membrane coat adaptor complex): p=1.52e-05, padj=3.15e-04, 6/6
+  GO:0140534 (endoplasmic reticulum protein-containing complex): p=1.07e-04, padj=2.00e-03, 21/58
+
+Cluster 7:
+  GO:1902494 (catalytic complex): p=1.86e-76, padj=4.49e-74, 212/456
+  GO:0032991 (protein-containing complex): p=1.29e-75, padj=1.56e-73, 436/1741
+  GO:0140535 (intracellular protein-containing complex): p=2.84e-28, padj=2.28e-26, 96/226
+  GO:1990234 (transferase complex): p=5.49e-25, padj=3.31e-23, 78/173
+  GO:0005667 (transcription regulator complex): p=2.10e-16, padj=1.01e-14, 43/85
+  GO:0043256 (laminin complex): p=1.26e-14, padj=5.07e-13, 16/16
+  GO:0034703 (cation channel complex): p=4.23e-14, padj=1.27e-12, 22/29
+  GO:0140513 (nuclear protein-containing complex): p=3.90e-14, padj=1.27e-12, 103/371
+  GO:0098796 (membrane protein complex): p=5.72e-14, padj=1.53e-12, 128/508
+  GO:0000151 (ubiquitin ligase complex): p=1.88e-13, padj=4.52e-12, 29/50
+
+Cluster 4:
+  GO:0032991 (protein-containing complex): p=1.18e-165, padj=5.53e-164, 449/1741
+  GO:0098796 (membrane protein complex): p=4.22e-91, padj=9.93e-90, 218/508
+  GO:0098797 (plasma membrane protein complex): p=9.94e-51, padj=1.56e-49, 132/308
+  GO:0005575 (cellular_component): p=3.66e-23, padj=4.30e-22, 285/1650
+  GO:0140513 (nuclear protein-containing complex): p=1.94e-19, padj=1.82e-18, 101/371
+  GO:0099023 (vesicle tethering complex): p=5.15e-12, padj=4.04e-11, 13/14
+  GO:1990351 (transporter complex): p=1.05e-11, padj=7.04e-11, 23/43
+  GO:0000133 (polarisome): p=1.60e-04, padj=9.39e-04, 4/4
+  GO:0098800 (inner mitochondrial membrane protein complex): p=1.46e-03, padj=6.88e-03, 9/26
+  GO:0030008 (TRAPP complex): p=1.43e-03, padj=6.88e-03, 3/3
+
+Cluster 1:
+  GO:0110165 (cellular anatomical entity): p=6.46e-203, padj=1.52e-200, 606/956
+  GO:0031090 (organelle membrane): p=3.62e-30, padj=4.25e-28, 86/116
+  GO:0098588 (bounding membrane of organelle): p=1.63e-23, padj=1.28e-21, 70/97
+  GO:0043233 (organelle lumen): p=9.80e-21, padj=5.76e-19, 50/62
+  GO:0016020 (membrane): p=3.45e-20, padj=1.62e-18, 75/117
+  GO:0012506 (vesicle membrane): p=5.62e-20, padj=2.20e-18, 44/52
+  GO:0005575 (cellular_component): p=5.05e-19, padj=1.70e-17, 524/1650
+  GO:0030659 (cytoplasmic vesicle membrane): p=1.15e-16, padj=3.38e-15, 48/66
+  GO:0070013 (intracellular organelle lumen): p=2.75e-15, padj=7.18e-14, 51/76
+  GO:0099512 (supramolecular fiber): p=1.59e-12, padj=3.75e-11, 28/34
+
+Cluster 5:
+  GO:0033643 (host cell part): p=9.85e-55, padj=3.28e-52, 78/93
+  GO:0120025 (plasma membrane bounded cell projection): p=1.81e-37, padj=2.27e-35, 58/74
+  GO:0018995 (host cellular component): p=2.05e-37, padj=2.27e-35, 46/49
+  GO:0033646 (host intracellular part): p=1.12e-31, padj=9.28e-30, 47/58
+  GO:0043005 (neuron projection): p=9.13e-28, padj=6.08e-26, 37/42
+  GO:0070161 (anchoring junction): p=3.76e-27, padj=2.09e-25, 30/30
+  GO:0005911 (cell-cell junction): p=2.28e-25, padj=1.08e-23, 28/28
+  GO:0030054 (cell junction): p=1.80e-24, padj=7.49e-23, 38/49
+  GO:0008305 (integrin complex): p=8.16e-22, padj=3.02e-20, 24/24
+  GO:0042995 (cell projection): p=1.08e-18, padj=3.59e-17, 38/62
+
+Cluster 3:
+  GO:0000307 (cyclin-dependent protein kinase holoenzyme complex): p=2.19e-21, padj=5.60e-19, 23/26
+  GO:1902554 (serine/threonine protein kinase complex): p=5.83e-19, padj=7.44e-17, 28/44
+  GO:0005667 (transcription regulator complex): p=4.50e-18, padj=3.83e-16, 38/85
+  GO:0016461 (unconventional myosin complex): p=3.85e-16, padj=2.46e-14, 16/17
+  GO:0005681 (spliceosomal complex): p=4.30e-15, padj=2.19e-13, 18/23
+  GO:1902911 (protein kinase complex): p=1.10e-14, padj=4.66e-13, 26/50
+  GO:1990904 (ribonucleoprotein complex): p=2.06e-14, padj=7.52e-13, 36/95
+  GO:0140513 (nuclear protein-containing complex): p=4.34e-14, padj=1.38e-12, 80/371
+  GO:1903293 (phosphatase complex): p=1.72e-13, padj=4.88e-12, 15/18
+  GO:0016459 (myosin complex): p=3.24e-13, padj=8.26e-12, 16/21
+
+Cluster 6:
+  GO:0043226 (organelle): p=2.47e-82, padj=2.30e-80, 85/100
+  GO:0043229 (intracellular organelle): p=6.99e-71, padj=3.25e-69, 96/155
+  GO:0043228 (non-membrane-bounded organelle): p=4.93e-65, padj=1.53e-63, 71/88
+  GO:0043232 (intracellular non-membrane-bounded organelle): p=6.76e-49, padj=1.57e-47, 71/122
+  GO:0110165 (cellular anatomical entity): p=8.53e-35, padj=1.59e-33, 173/956
+  GO:0043231 (intracellular membrane-bounded organelle): p=1.08e-24, padj=1.68e-23, 51/128
+  GO:0005622 (intracellular anatomical structure): p=3.68e-24, padj=4.89e-23, 24/27
+  GO:0031982 (vesicle): p=2.41e-19, padj=2.81e-18, 25/38
+  GO:0016234 (inclusion body): p=2.06e-18, padj=2.13e-17, 17/18
+  GO:0043227 (membrane-bounded organelle): p=7.47e-18, padj=6.95e-17, 37/94
+
+Cluster 2:
+  GO:1902494 (catalytic complex): p=3.12e-85, padj=2.43e-83, 122/456
+  GO:1990234 (transferase complex): p=8.74e-63, padj=3.41e-61, 74/173
+  GO:1990204 (oxidoreductase complex): p=1.20e-56, padj=3.11e-55, 53/82
+  GO:0061695 (transferase complex, transferring phosphorus-containing groups): p=1.00e-22, padj=1.96e-21, 29/72
+  GO:0045239 (tricarboxylic acid cycle enzyme complex): p=6.97e-18, padj=1.09e-16, 13/14
+  GO:0034708 (methyltransferase complex): p=5.37e-13, padj=6.98e-12, 12/19
+  GO:0044391 (ribosomal subunit): p=2.64e-10, padj=2.94e-09, 8/10
+  GO:0045240 (dihydrolipoyl dehydrogenase complex): p=1.04e-07, padj=1.02e-06, 5/5
+  GO:0030062 (mitochondrial tricarboxylic acid cycle enzyme complex): p=2.63e-06, padj=2.05e-05, 4/4
+  GO:1990228 (sulfurtransferase complex): p=2.63e-06, padj=2.05e-05, 4/4

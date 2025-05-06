@@ -1,1 +1,3 @@
-temp/godata
+cluster_code/godata
+cluster_code/*.pth
+cluster_code/*.csv

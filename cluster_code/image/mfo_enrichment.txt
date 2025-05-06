@@ -1,0 +1,95 @@
+Cluster 6:
+  GO:0005215 (transporter activity): p=0.00e+00, padj=0.00e+00, 309/310
+  GO:0022857 (transmembrane transporter activity): p=0.00e+00, padj=0.00e+00, 559/592
+  GO:0046943 (carboxylic acid transmembrane transporter activity): p=1.38e-201, padj=1.86e-199, 186/190
+  GO:0022804 (active transmembrane transporter activity): p=1.03e-173, padj=1.04e-171, 184/211
+  GO:1901702 (salt transmembrane transporter activity): p=1.93e-162, padj=1.56e-160, 176/206
+  GO:0008514 (organic anion transmembrane transporter activity): p=8.68e-162, padj=5.85e-160, 145/145
+  GO:0022853 (active monoatomic ion transmembrane transporter activity): p=3.19e-151, padj=1.84e-149, 142/146
+  GO:0015291 (secondary active transmembrane transporter activity): p=1.92e-144, padj=9.69e-143, 136/140
+  GO:0008324 (monoatomic cation transmembrane transporter activity): p=1.64e-137, padj=7.37e-136, 157/193
+  GO:0005342 (organic acid transmembrane transporter activity): p=1.60e-126, padj=6.48e-125, 114/114
+
+Cluster 7:
+  GO:0016740 (transferase activity): p=0.00e+00, padj=0.00e+00, 1036/1207
+  GO:0016757 (glycosyltransferase activity): p=0.00e+00, padj=0.00e+00, 492/539
+  GO:0016758 (hexosyltransferase activity): p=5.03e-312, padj=3.62e-310, 430/472
+  GO:0016747 (acyltransferase activity, transferring groups other than amino-acyl groups): p=3.38e-305, padj=1.83e-303, 372/378
+  GO:0016746 (acyltransferase activity): p=2.27e-251, padj=9.82e-250, 305/308
+  GO:0016772 (transferase activity, transferring phosphorus-containing groups): p=1.91e-176, padj=6.89e-175, 341/475
+  GO:0008194 (UDP-glycosyltransferase activity): p=1.42e-129, padj=4.37e-128, 187/207
+  GO:0016769 (transferase activity, transferring nitrogenous groups): p=2.57e-94, padj=6.94e-93, 114/114
+  GO:0008483 (transaminase activity): p=2.56e-89, padj=6.13e-88, 108/108
+  GO:0008374 (O-acyltransferase activity): p=5.42e-76, padj=1.17e-74, 98/101
+
+Cluster 0:
+  GO:0016705 (oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen): p=0.00e+00, padj=0.00e+00, 667/708
+  GO:0016491 (oxidoreductase activity): p=4.94e-324, padj=1.31e-321, 988/2094
+  GO:0004497 (monooxygenase activity): p=7.55e-276, padj=1.34e-273, 420/483
+  GO:0016709 (oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen, NAD(P)H as one donor, and incorporation of one atom of oxygen): p=1.75e-243, padj=2.33e-241, 303/306
+  GO:0051213 (dioxygenase activity): p=9.77e-182, padj=1.04e-179, 247/260
+  GO:0016701 (oxidoreductase activity, acting on single donors with incorporation of molecular oxygen): p=2.27e-96, padj=2.01e-94, 138/149
+  GO:0016702 (oxidoreductase activity, acting on single donors with incorporation of molecular oxygen, incorporation of two atoms of oxygen): p=7.64e-87, padj=5.80e-85, 112/114
+  GO:0016706 (2-oxoglutarate-dependent dioxygenase activity): p=3.81e-56, padj=2.53e-54, 87/99
+  GO:0016717 (oxidoreductase activity, acting on paired donors, with oxidation of a pair of donors resulting in the reduction of molecular oxygen to two molecules of water): p=2.56e-53, padj=1.51e-51, 66/66
+  GO:0016854 (racemase and epimerase activity): p=6.88e-43, padj=3.65e-41, 53/53
+
+Cluster 2:
+  GO:0016787 (hydrolase activity): p=0.00e+00, padj=0.00e+00, 607/742
+  GO:0016829 (lyase activity): p=0.00e+00, padj=0.00e+00, 537/571
+  GO:0016741 (transferase activity, transferring one-carbon groups): p=1.03e-201, padj=4.19e-200, 284/329
+  GO:0016810 (hydrolase activity, acting on carbon-nitrogen (but not peptide) bonds): p=3.97e-199, padj=1.21e-197, 255/275
+  GO:0016835 (carbon-oxygen lyase activity): p=1.95e-191, padj=4.77e-190, 251/275
+  GO:0016830 (carbon-carbon lyase activity): p=1.95e-177, padj=3.97e-176, 210/215
+  GO:0008168 (methyltransferase activity): p=4.74e-161, padj=8.26e-160, 284/394
+  GO:0016836 (hydro-lyase activity): p=5.98e-109, padj=9.11e-108, 140/150
+  GO:0016831 (carboxy-lyase activity): p=3.37e-99, padj=4.57e-98, 117/119
+  GO:0016798 (hydrolase activity, acting on glycosyl bonds): p=8.98e-96, padj=1.10e-94, 164/219
+
+Cluster 5:
+  GO:0038023 (signaling receptor activity): p=3.44e-253, padj=1.58e-250, 230/243
+  GO:0004888 (transmembrane signaling receptor activity): p=1.29e-248, padj=2.96e-246, 237/262
+  GO:0004930 (G protein-coupled receptor activity): p=4.81e-161, padj=7.36e-159, 138/138
+  GO:0140375 (immune receptor activity): p=8.61e-102, padj=9.87e-100, 88/88
+  GO:0060089 (molecular transducer activity): p=4.44e-101, padj=4.08e-99, 95/101
+  GO:0004896 (cytokine receptor activity): p=1.39e-64, padj=1.06e-62, 56/56
+  GO:0001653 (peptide receptor activity): p=1.98e-63, padj=1.30e-61, 55/55
+  GO:0008528 (G protein-coupled peptide receptor activity): p=3.77e-59, padj=2.16e-57, 54/56
+  GO:0015276 (ligand-gated monoatomic ion channel activity): p=2.68e-44, padj=1.37e-42, 46/54
+  GO:0005216 (monoatomic ion channel activity): p=9.65e-33, padj=4.43e-31, 47/80
+
+Cluster 1:
+  GO:0005488 (binding): p=0.00e+00, padj=0.00e+00, 795/856
+  GO:0005515 (protein binding): p=0.00e+00, padj=0.00e+00, 556/595
+  GO:0005102 (signaling receptor binding): p=6.95e-178, padj=1.29e-175, 288/350
+  GO:0003674 (molecular_function): p=9.73e-131, padj=1.36e-128, 489/1112
+  GO:0001664 (G protein-coupled receptor binding): p=1.81e-118, padj=2.02e-116, 187/221
+  GO:0043168 (anion binding): p=1.93e-92, padj=1.79e-90, 124/131
+  GO:0043167 (ion binding): p=1.77e-90, padj=1.41e-88, 123/131
+  GO:0003723 (RNA binding): p=3.03e-90, padj=2.11e-88, 140/163
+  GO:0097159 (organic cyclic compound binding): p=1.34e-87, padj=8.27e-86, 145/177
+  GO:0003676 (nucleic acid binding): p=3.29e-78, padj=1.83e-76, 129/157
+
+Cluster 4:
+  GO:0016491 (oxidoreductase activity): p=1.57e-276, padj=7.39e-274, 1085/2094
+  GO:0016614 (oxidoreductase activity, acting on CH-OH group of donors): p=1.31e-274, padj=3.09e-272, 452/485
+  GO:0016616 (oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor): p=4.12e-200, padj=6.46e-198, 352/389
+  GO:0016627 (oxidoreductase activity, acting on the CH-CH group of donors): p=1.22e-119, padj=1.44e-117, 204/220
+  GO:0003824 (catalytic activity): p=4.94e-111, padj=4.65e-109, 617/1325
+  GO:0016628 (oxidoreductase activity, acting on the CH-CH group of donors, NAD or NADP as acceptor): p=1.03e-75, padj=8.10e-74, 126/134
+  GO:0016874 (ligase activity): p=2.29e-72, padj=1.54e-70, 185/253
+  GO:0016620 (oxidoreductase activity, acting on the aldehyde or oxo group of donors, NAD or NADP as acceptor): p=1.22e-63, padj=7.20e-62, 97/99
+  GO:0016645 (oxidoreductase activity, acting on the CH-NH group of donors): p=8.29e-56, padj=4.34e-54, 96/104
+  GO:0016903 (oxidoreductase activity, acting on the aldehyde or oxo group of donors): p=1.05e-53, padj=4.96e-52, 107/126
+
+Cluster 3:
+  GO:0030234 (enzyme regulator activity): p=1.23e-231, padj=1.25e-229, 130/132
+  GO:0098772 (molecular function regulator activity): p=6.88e-216, padj=3.47e-214, 125/131
+  GO:0140678 (molecular function inhibitor activity): p=1.72e-89, padj=5.79e-88, 55/59
+  GO:0004857 (enzyme inhibitor activity): p=1.39e-84, padj=3.52e-83, 50/51
+  GO:0008047 (enzyme activator activity): p=3.56e-83, padj=7.19e-82, 50/52
+  GO:0140677 (molecular function activator activity): p=1.08e-76, padj=1.83e-75, 52/65
+  GO:0019207 (kinase regulator activity): p=4.18e-38, padj=6.02e-37, 23/24
+  GO:0019887 (protein kinase regulator activity): p=3.82e-31, padj=4.83e-30, 20/23
+  GO:0140110 (transcription regulator activity): p=4.42e-28, padj=4.96e-27, 19/24
+  GO:0016247 (channel regulator activity): p=6.89e-26, padj=6.32e-25, 15/15

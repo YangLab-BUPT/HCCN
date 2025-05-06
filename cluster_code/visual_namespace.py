@@ -100,6 +100,6 @@ for i in range(3):
                 c=colors[i], label=ns_names[i], s=10)
 
 plt.legend()
-plt.title("the t-SNE visualization of MFO / BPO / CCO in GNN")
+plt.title("the t-SNE visualization of MFO / BPO / CCO ")
 plt.savefig('./image/tsne_GNN_namespace.png')
 plt.show()
