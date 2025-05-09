@@ -14,7 +14,7 @@ For **Gene Ontology (GO) embedding**, refer to: [OWL2Vec-Star](https://github.co
 Install dependencies using:  
 
 ```bash  
-pip install -r requirement.txt  
+pip install -r requirements.txt  
 ```  
 
 ---
