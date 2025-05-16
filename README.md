@@ -3,7 +3,7 @@
 ## Overview  
 
 **HMCC** is a neural network framework designed for multi-label prediction on microbial protein sequences. It integrates **ProtBert embeddings**, **Focal Loss with re-weighting**, and **frequency-aware sampling strategies** to address challenges posed by long-tail label distributions.  
-For **Gene Ontology (GO) embedding**, refer to: [OWL2Vec-Star](https://github.com/KRR-Oxford/OWL2Vec-Star.git)  
+For **Gene Ontology (GO) embedding**, refer to: [OWL2Vec-Star](https://github.com/KRR-Oxford/OWL2Vec-Star.git)  or you can refer to cluster_code.
 
 ![workflow](./image/workflow.png)
 
