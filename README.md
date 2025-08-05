@@ -9,6 +9,10 @@ For **Gene Ontology (GO) embedding**, refer to: [OWL2Vec-Star](https://github.co
 
 ---
 
+## Data
+The dataset used in this project is hosted on Google Drive and can be accessed via the following link:
+https://drive.google.com/file/d/1Nk08PhCMnCZ3IAkU9eyNKKPV8KjZwLp6/view?usp=sharing
+
 ## Installation  
 
 Install dependencies using:  
