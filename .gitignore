@@ -1,3 +1,5 @@
 cluster_code/godata
 cluster_code/*.pth
 cluster_code/*.csv
+deepgoplus
+models

@@ -12,7 +12,7 @@ if client.has_collection(collection_name="train"):   # 如果存在则删除
     client.drop_collection(collection_name="train")
     client.drop_collection(collection_name="test")
 
-path = '/your/root/path'
+path = '/your/root/path'   # 
 datatype = 'stride'
 model_path = '/data/gxyData/prot_bert'   # Your embedding model path
 train_data_dir1 = join(path, datatype, 'traindata.csv')

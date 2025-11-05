@@ -8,7 +8,7 @@ endpoint = "https://hf-mirror.com"  # 替换为镜像地址
 api = HfApi(endpoint=endpoint)
 
 # 指定仓库ID
-repo_id = "michiyasunaga/BioLinkBERT-large"
+repo_id = "facebook/esm2_t33_650M_UR50D"
 
 # 列出仓库中的所有文件
 files = api.list_repo_files(repo_id)
@@ -17,7 +17,7 @@ files = api.list_repo_files(repo_id)
 
 file_list = []
 for file in files:
-    if not file.endswith(".onnx") and not file.endswith(".bin"):
+    if not file.endswith(".onnx") and not file.endswith(".bin"): #  
         print(file)
         file_list.append(file)
 

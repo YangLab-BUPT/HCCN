@@ -235,22 +235,22 @@ def prepare_dataloader(accelerator):
         inputs["layers"] = torch.tensor(np.stack(layers)).to('cuda').to(torch.bfloat16)
         return inputs
 
-    high_freq_sampler = CommonLabelSampler(trainset.high_freq_label_indices, \
-                                    num_replicas=accelerator.num_processes, \
-                                    rank=accelerator.process_index, \
-                                    shuffle=True, \
+    high_freq_sampler = CommonLabelSampler(trainset.high_freq_label_indices,
+                                    num_replicas=accelerator.num_processes,
+                                    rank=accelerator.process_index,
+                                    shuffle=True,
                                     drop_last=True)
 
-    low_freq_sampler = CycleLabelSampler(trainset.low_freq_label_indices, \
-                                        num_replicas=accelerator.num_processes, \
-                                        rank=accelerator.process_index, \
-                                        shuffle=True, \
+    low_freq_sampler = CycleLabelSampler(trainset.low_freq_label_indices,
+                                        num_replicas=accelerator.num_processes,
+                                        rank=accelerator.process_index,
+                                        shuffle=True,
                                         drop_last=False)
 
-    other_sampler = CycleLabelSampler(trainset.other_indices, \
-                                        num_replicas=accelerator.num_processes, \
-                                        rank=accelerator.process_index, \
-                                        shuffle=True, \
+    other_sampler = CycleLabelSampler(trainset.other_indices,
+                                        num_replicas=accelerator.num_processes,
+                                        rank=accelerator.process_index,
+                                        shuffle=True,
                                         drop_last=False)
 
     train_batch_sampler = SelectBatchSampler(high_freq_sampler, 
@@ -348,8 +348,7 @@ def prepare_model_and_optimizer(accelerator):
     # for name, param in model.named_parameters():
     #     param.requires_grad = True
 
-    # optimizer = Adam(model.parameters(), lr=lr)
-    optimizer = Adam([{'params': model.parameters(), 'lr': 1e-4}])
+    optimizer = Adam([{'params': model.parameters(), 'lr': 1e-5}])
 
     # optimizer_2 = Adam([{'params': node_param, 'lr': 1e-5}])
 
@@ -518,8 +517,6 @@ def train(model, optimizer, accelerator: Accelerator, trainloader, validloader, 
                 if not use_mlp:
                     global_logits, local_logits, layer_logits = model.layer_classifier(output.hidden_states)
                     
-                    contra_loss = None
-
                     layer_loss, bottom_loss = LayerLoss(model.layer_loss_fn, 
                                                         global_logits, 
                                                         local_logits, 
@@ -531,7 +528,6 @@ def train(model, optimizer, accelerator: Accelerator, trainloader, validloader, 
 
                     node_logits = model.node_classifier(layer_logits, output.hidden_states)
 
-                    # 增加预测后处理
                     for col, rows in model.hierar_relations.items():
                         if len(rows) == 0:
                             continue

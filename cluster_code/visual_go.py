@@ -68,8 +68,6 @@ model.eval()
 with torch.no_grad():
     z = model(data.x, data.edge_index)
 
-
-
 # namespace 映射为整数标签
 ns_label_map = {
     'molecular_function': 0,
