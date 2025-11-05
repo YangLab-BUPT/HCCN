@@ -63,17 +63,6 @@ pip install torch==2.3.0 torchvision==0.18.0 torchaudio==2.3.0
 - GO ontology file: go.obo (download from [Gene Ontology](https://geneontology.org/docs/download-ontology/)
 ).
 
-HMCC/
- ├── data/
- │   ├── sequences.fasta
- │   ├── go.obo
- │   └── annotations.tsv
- ├── checkpoints/
- ├── cluster_code/
- ├── freq/
- ├── image/
- └── train.py
-
 # Reproducibility
 
 (1) GO Embedding and Clustering
