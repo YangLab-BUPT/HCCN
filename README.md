@@ -9,11 +9,9 @@ For **Gene Ontology (GO) embedding**, refer to: [OWL2Vec-Star](https://github.co
 
 ---
 
-<<<<<<< HEAD
 ## Data
-The dataset used in this project is hosted on Google Drive and can be accessed via the following link:
-https://drive.google.com/file/d/1Nk08PhCMnCZ3IAkU9eyNKKPV8KjZwLp6/view?usp=sharing
-=======
+- The dataset used in this project is hosted on Google Drive and can be accessed via the following link: https://drive.google.com/file/d/1Nk08PhCMnCZ3IAkU9eyNKKPV8KjZwLp6/view?usp=sharing
+
 Tested environment:
 
 - Python 3.10
@@ -25,7 +23,7 @@ Tested environment:
 - Transformers ≥ 4.40
 
 - Accelerate ≥ 0.30
->>>>>>> 0c294dc (update)
+
 
 ## Installation  
 
