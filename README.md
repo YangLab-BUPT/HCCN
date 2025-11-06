@@ -45,9 +45,9 @@ pip install torch==2.3.0 torchvision==0.18.0 torchaudio==2.3.0
 
 1. Embedding Models
 
-- [protbert](https://hf-mirror.com/Rostlab/prot_bert)
+- [protbert](https://huggingface.co/Rostlab/prot_bert)
 
-- [esm2_650M](https://hf-mirror.com/facebook/esm2_t33_650M_UR50D)
+- [esm2_650M](https://huggingface.co/facebook/esm2_t33_650M_UR50D)
 
 - [sapbert](https://huggingface.co/cambridgeltl/SapBERT-from-PubMedBERT-fulltext)
 
